@@ -15,10 +15,10 @@ echo "
 &emsp; &emsp; &emsp; &emsp;  
 <a href=$_SERVER[PHP_SELF]?action=print&file=$rootdir[dirname]/$filenameX>Print</a>
   &emsp;  &emsp;  &emsp;  
-<a href=https://github.com/CommonAccord/NDA/blob/master/Doc/$rootdir[dirname]/$filenameX>View at GitHub</a>
+<a href=https://github.com/CommonAccord/DataShare/blob/master/Doc/$rootdir[dirname]/$filenameX>View at GitHub</a>
 
 &emsp;  &emsp;  &emsp;  
-<a href=https://github.com/CommonAccord/NDA/edit/master/Doc/$rootdir[dirname]/$filenameX>Edit at GitHub</a>
+<a href=https://github.com/CommonAccord/DataShare/edit/master/Doc/$rootdir[dirname]/$filenameX>Edit at GitHub</a>
 
 
 ";
