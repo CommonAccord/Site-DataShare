@@ -30,8 +30,7 @@ Ti=The Data Sharing Agreement
 
 2.=[Bit/Ssec_03]
 
-
-3.=[Sec/DataSharing_Sec_Limit.md]
+3.=[Sec/DataShare_Sec_Limit.md]
 
 4.=[Sec/DataSharing_Sec_Use.md]
 
