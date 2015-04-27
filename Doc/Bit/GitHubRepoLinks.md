@@ -1,4 +1,4 @@
-GitHubRepo=CommonAccord/NDA
+GitHubRepo=CommonAccord/DataShare
 
 d-=<a href="https://github.com/{GitHubRepo}/blob/master/Doc/{PageName}"><font color="green">
 
