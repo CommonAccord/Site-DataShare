@@ -24,10 +24,10 @@ Licensed_Material={d-}Licensed Material{-d}
 
 Share={d-}Share{-d}
 
-d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/{PageName}"><font color="{dcolor}">
+d-=<a href="https://github.com/CommonAccord/DataShare/blob/master/Doc/{PageName}"><font color="{dcolor}">
 
 -d=</font></a>
 
-PageName=UMKC/DataSharing_Form.md
+PageName=Form/DataSharing_Form.md
 
 dcolor=green
