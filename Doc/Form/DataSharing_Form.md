@@ -30,6 +30,7 @@ Doc.Title=The Data Sharing Agreement
 
 2.=[Z/Sec/s3]
 
+<<<<<<< HEAD
 3.Ti=License Conditions
 
 3.0.sec={Contractor} exercise of the {Data_Sharing_Agreement} is expressly made subject to the following conditions.
@@ -63,6 +64,9 @@ Doc.Title=The Data Sharing Agreement
 3.3.sec=If requested by {the_City}, {Contractor} must remove any of the information required by Sections 3to the extent reasonably practicable. If {Contractor} {Share}s {Adapted_Material} {Contractor} produces, the Adapter's License {Contractor} applies must not prevent recipients of the {Adapted_Material} from complying with the requirements of Section 3 of this agreement.
 
 3.=[Z/Sec/s3]
+=======
+3.=[Sec/DataSharing_Sec_Limit.md]
+>>>>>>> origin/master
 
 4.=[Sec/DataSharing_Sec_Use.md]
 

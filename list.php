@@ -20,13 +20,17 @@ if(! ($dir == './')) {
  	
 	echo "<div id='updir'><img src='assets/arrowup.png' height=25><h3 class='sc subtitle'><a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>Org".$rootdir['dirname']."</a>/".$rootdir['filename']."</h3>";
 
+<<<<<<< HEAD
  	echo "&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; <a href=https://github.com/$GitHubRepo/blob/master/Doc/".$dir.">Github</a></div>";
+=======
+ 	echo "&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; <a href=https://github.com/CommonAccord/DataShare/blob/master/Doc/".$dir.">Github</a></div>";
+>>>>>>> origin/master
 
 #   echo "<h2 class='sc subtitle2'>". $rootdir['filename']."</h2>";
 } 
 
 $files = scandir($path.$dir);
-
+ 
 if(file_exists($path.$dir . 'include.php')) {
 echo "<div class='includers'>"; 
    include $path.$dir . 'include.php';

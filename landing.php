@@ -1,8 +1,14 @@
      <p align="center"><img src="assets/cmacc-trans.png" style="width:35%" /></p>
 
+<<<<<<< HEAD
 <table><tr><td>Welcome to a subdomain of CommonAccord.
 <br> Here: <a href="index.php?action=list&file=">Documents</a>:<br><br>
 This is a subset of the docs from <a href="http://www.commonaccord.org">commonaccord.org</a>.<br>
+=======
+<table><tr><td>Welcome to a subdomain for a document for data sharing by a municipality.
+
+<br> Here: <a href="index.php?action=list&file=">Documents</a>:<br><br><br>
+>>>>>>> origin/master
 
 </td><td>
 
