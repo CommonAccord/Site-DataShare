@@ -1,0 +1,108 @@
+Doc.Title=DATA SHARING AGREEMENT between {P1.Name.Full} and {P2.Name.Full}
+
+0.sec=This Data Sharing Agreement is entered into by and between {P1.N,E,A} ("{P1.Handle}")and {P2.N,E,A}  (Vendor) to establish the content, use, and protection of data needed by {P2.the} to support the contracted service, whether such data is provided by {P1.the} or collected by {P2.the} on behalf of {P1.the}.
+
+1.Ti=Period of Agreement
+
+1.sec=The period of this Agreement shall be in effect from {Term.Begin.YMD} until {Term.End.YMD}, or until terminated in writing by either organization.
+
+2.Ti=Intended Use of Data
+
+2.sec=Describe the intended use of data in this section.
+
+3.Ti=Constraints on Use of Data
+
+3.sec=Data supplied by {P1.the} to {P2.the} or collected by {P2.the} on behalf of {P1.the}’s students, prospective students, employees or alumni is the property of {P1.the} and shall not be shared with third parties without the written permission of {P1.the}. Customer data shall not be sold or used, internally or externally for any purpose not directly related to the scope of work defined in this agreement without the written permission of {P1.the}.
+
+4.Ti=Data Security
+
+4.0.sec={P2.The} shall employ industry best practices, both technically and procedurally, to protect {P1.the} data from unauthorized physical and electronic access. Methods employed are subject to annual review and approval by {P1.the}
+
+4.1.Ti=Data Elements
+
+4.1.sec=Data Shared with {P2.the} shall be limited to the data elements specifically defined and authorized by {P1.the}. If {P2.the} wishes to collect additional data, {P2.the} must submit a request in writing to {P1.the}. Under no circumstances shall {P2.the} collect any information classified as Sensitive or Confidential without the express written approval of {P1.the}, Data to be shared or collected shall be limited to the following elements:
+
+*Describe the data elements in this section*
+
+4.2.Ti=Data Categories
+
+The following definitions shall be used to classify data for security purposes: 
+
+4.2.1.Ti=Normal
+
+4.2.1.sec=The least restrictive class of data. Although it must be protected from unauthorized disclosure and/or modification, it is often public information or generally releasable under University procedures for processing public records requests. Examples of this class of data are: class schedules, course catalogs, general ledger data, and employee demographic statistics.
+
+4.2.2.Ti=Sensitive
+
+4.2.2.sec=This class includes data for which specific protections are required by law or for which agencies are obligated to prevent identify theft or similar crimes or abuses. Examples of this class of data are: peoples’ names in combination with any of the following: driver’s license numbers, birth date, employee ID number (EID), address, e-mail address, telephone numbers. Also included are: agency source code or object code, agency security data, education records including papers, grades, and test results, or information identifiable to an individual that relates to any of theses types of information.
+
+4.2.3.Ti=Confidential
+
+4.2.3.sec=This class includes those data elements that are either passwords in the traditional sense or function in the role of an access control such as a credit card number, expiration data, PIN, and card security code. All data classified as Confidential shall be encrypted in storage and in transit. Access to these elements are tightly controlled and audited. Examples of these data are: Social Security Numbers (SSN), credit card numbers, expiration dates PINs, and card security codes, financial profiles, bank routing numbers, medical data, law enforcement records
+
+4.3.Ti=Data Handling Requirements
+
+4.3.sec=Data handling requirements may vary depending on the classification of data shared with {P2.the}. However, it is anticipated that most data shared with {P2.the} will involve a mix of data classes including Sensitive and possibly Confidential information. Therefore, whenever data elements are aggregated for collection, transmission, or storage, the aggregate data shall be handled using the protocols that apply to the most sensitive data element.
+
+5.Ti=Network Security
+
+5.1.Ti=Internet Access
+
+5.1.sec=Connections to {P2.the} computers utilizing the Internet, whether for client access or remote administration, must be protected using any of the following industry standard cryptographic technologies: SSL/TLS, IPSec, SSH/SCP, PGP.
+
+5.2.Ti=Data Storage
+
+5.2.sec=Regardless of the media employed (i.e., disk, tape, etc.), data must be stored in an encrypted format. Encryption algorithms shall be AES-128 or better, or Triple-DES (3-DES). The use of other encryption algorithms for data storage must be approved in writing by {P1.the}.
+
+6.Ti={P2.Handle} Personnel
+
+6.1.Ti=Access to Data
+
+6.1.sec={P2.The} shall limit access to Sensitive and Confidential data to those staff members with a well-defined business need.
+
+6.2.Ti=Security Training
+
+6.2.sec={P2.The} shall provide periodic training for staff on {P2.the} internal security policies and procedures, and on applicable state and federal legal requirements for protecting Sensitive and Confidential data.
+
+6.3.Ti=Criminal Background Checks
+
+6.3.sec={P2.The} shall certify that all staff members with access to Confidential information have been subjected to a bona fide criminal background check and have no record of any felony convictions. Any exceptions to this requirement must be approved in writing by {P1.the}.
+
+6.4.Ti=Prohibition on Mobile Devices and Removable Media
+
+6.4.sec={P2.The} shall have a written policy prohibiting the transfer or storage of unencrypted customer information on employee mobile devices or removable storage media for any reason. This policy shall be made available to each employee individually and shall be strictly enforced.
+
+7.Ti=Compliance with Applicable Laws and Regulations
+
+7.sec={P2.the} shall comply with all applicable federal laws and regulations protecting the privacy of citizens including the Family Education Rights and Privacy Act (FERPA) and the Health Insurance Portability and Accountability Act (HIPAA). Where applicable, {P2.the} shall also comply with all provisions of the Financial Services Modernization Act (the “Gramm-Leach-Bliley Act”).
+
+8.Ti=Notification of Security Breaches
+
+8.sec=The {StateSecurityBreachLaw) delineates notification requirements in the event of a breach in the security of personal information. {P2.The} agrees that in the event of any breach or compromise of the security, confidentiality or integrity of computerized data where personal information of a {P1.the} student, prospective student, employee, alumnus or other University-affiliated person or entity was, or is reasonably believed to have been, acquired and/or accessed by an unauthorized person, {P2.the} shall notify {P1.the} of the breach of the security system containing such data within 24 hours, comply with all notification actions, and/or assist {P1.the} with all notification actions require by University policy and the law. 
+
+StateSecurityBreachLaw=Louisiana Database Security Breach Notification Law (La. R.S. 51:3071, et seq.
+
+9.Ti=Indemnification
+
+9.sec={P2.The} shall defend, indemnify, release, and hold {P1.the} harmless from and against all Claims, Losses, and Expenses when arising out of or incidental to this Agreement regardless of the negligence or fault of {P1.the} or any other entity or person.
+
+10.Ti={P2.Handle}’s Agents
+
+10.sec={P2.The} shall ensure that any agents, including subcontractors, to whom it provides any {P1.the} data agree in writing to be bound by the sam restrictions and conditions that apply to Vendor with respect to such data; provided, however, that Vendor shall not disclose or provide access to data to any subcontractor or agent without the prior written consent of {P1.the}.
+
+11.Ti=Amendments and Alterations to this Agreement
+
+11.sec={P1.The} and Vendor may amend this Agreement by mutual consent, in writing, at any time.
+
+12.Ti=Termination of services
+
+12.1.sec=In the event {P1.the} or Vendor terminates this Agreement, or Vendor ceases operation, Vendor shall return to {P1.the} all data collected in the course of providing the application service. Vendor shall certify in writing within five business days that all copies of the data stored on Vendor servers, backup servers, backup media, or other media including paper copies have been permanently erased* or destroyed.
+
+12.2.sec=“Permanently erased” means the data have been completely overwritten and are unrecoverable. File deletions or media high level formatting operations do not constitute a permanent erasure.
+
+
+90.sec=By the signatures of their duly authorized representative below, {P1.Name.Full} and {P2.Name.Full}, intending to be legally bound, agree to all of the provisions of this Data Sharing Agreement.
+
+=[Z/Sec/12]
+
+DocBody={Doc}
