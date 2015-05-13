@@ -40,9 +40,13 @@ The following definitions shall be used to classify data for security purposes:
 
 4.2.3.sec=This class includes those data elements that are either passwords in the traditional sense or function in the role of an access control such as a credit card number, expiration data, PIN, and card security code. All data classified as Confidential shall be encrypted in storage and in transit. Access to these elements are tightly controlled and audited. Examples of these data are: Social Security Numbers (SSN), credit card numbers, expiration dates PINs, and card security codes, financial profiles, bank routing numbers, medical data, law enforcement records
 
+4.2.=[Z/Sec/s3]
+
 4.3.Ti=Data Handling Requirements
 
 4.3.sec=Data handling requirements may vary depending on the classification of data shared with {P2.the}. However, it is anticipated that most data shared with {P2.the} will involve a mix of data classes including Sensitive and possibly Confidential information. Therefore, whenever data elements are aggregated for collection, transmission, or storage, the aggregate data shall be handled using the protocols that apply to the most sensitive data element.
+
+4.=[Z/Sec/3]
 
 5.Ti=Network Security
 
@@ -53,6 +57,8 @@ The following definitions shall be used to classify data for security purposes:
 5.2.Ti=Data Storage
 
 5.2.sec=Regardless of the media employed (i.e., disk, tape, etc.), data must be stored in an encrypted format. Encryption algorithms shall be AES-128 or better, or Triple-DES (3-DES). The use of other encryption algorithms for data storage must be approved in writing by {P1.the}.
+
+5.=[Z/Sec/2]
 
 6.Ti={P2.Handle} Personnel
 
@@ -71,6 +77,8 @@ The following definitions shall be used to classify data for security purposes:
 6.4.Ti=Prohibition on Mobile Devices and Removable Media
 
 6.4.sec={P2.The} shall have a written policy prohibiting the transfer or storage of unencrypted customer information on employee mobile devices or removable storage media for any reason. This policy shall be made available to each employee individually and shall be strictly enforced.
+
+6.=[Z/Sec/4]
 
 7.Ti=Compliance with Applicable Laws and Regulations
 
@@ -100,6 +108,7 @@ StateSecurityBreachLaw=Louisiana Database Security Breach Notification Law (La. 
 
 12.2.sec=“Permanently erased” means the data have been completely overwritten and are unrecoverable. File deletions or media high level formatting operations do not constitute a permanent erasure.
 
+12.=[Z/Sec/s2]
 
 90.sec=By the signatures of their duly authorized representative below, {P1.Name.Full} and {P2.Name.Full}, intending to be legally bound, agree to all of the provisions of this Data Sharing Agreement.
 
