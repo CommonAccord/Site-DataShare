@@ -20,7 +20,7 @@ if(! ($dir == './')) {
  	
 	echo "<div id='updir'><img src='assets/arrowup.png' height=25><h3 class='sc subtitle'><a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>Org".$rootdir['dirname']."</a>/".$rootdir['filename']."</h3>";
 
- 	echo "&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; <a href=https://github.com/CommonAccord/NDA/blob/master/Doc/".$dir.">Github</a></div>";
+ 	echo "&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; <a href=https://github.com/$GitHubRepo/blob/master/Doc/".$dir.">Github</a></div>";
 
 #   echo "<h2 class='sc subtitle2'>". $rootdir['filename']."</h2>";
 } 
@@ -37,7 +37,7 @@ echo '<div class="listings">';
 echo "<div id='content-list'>";
 foreach($files as $f) {
         if(is_dir($path.$dir.$f)) {
-                if( !( ($f == '.') || ($f == '..')) ) {
+                if( !( ($f == '.') || ($f == '..') || ($f == '.git')) ) {
 
                         echo "<br><img height=30 src='assets/folder.png'><a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/>$f</a>";
                 }

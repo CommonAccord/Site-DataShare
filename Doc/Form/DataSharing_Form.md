@@ -1,4 +1,4 @@
-Ti=The Data Sharing Agreement
+Doc.Title=The Data Sharing Agreement
 
 0.sec=This Agreement ({Agreement}) is a license and is made and entered into by and between the Licensor ("{City}") and the Licensee ("{Contractor}.")
 
@@ -12,7 +12,7 @@ Ti=The Data Sharing Agreement
 
 1.4.sec={Share} means to provide material to the public, or any other third party by any means or process in compliance with the Grant of License or Permitted Use, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
 
-1.=[Bit/Ssec_04]
+1.=[Z/Sec/s4]
 
 2.Ti=Grant of License
 
@@ -22,13 +22,13 @@ Ti=The Data Sharing Agreement
 
 2.1.2.sec=produce, reproduce, and {Share} {Adapted_Material}.
 
-2.1.=[Bit/Ssec_02]
+2.1.=[Z/Sec/s2]
 
 2.2.sec=The term of this {Data_Sharing_Agreement} is specified in Sections 4 and 6 of this agreement.
 
 2.3.sec=Media and formats; technical modifications allowed. {The_City} authorizes {Contractor} to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. {The_City} waives and/or agrees not to assert any right or authority to forbid {Contractor} from making technical modifications necessary to exercise the Licensed Rights. Simply making modifications authorized by this Section never produces {Adapted_Material}.
 
-2.=[Bit/Ssec_03]
+2.=[Z/Sec/s3]
 
 3.Ti=License Conditions
 
@@ -48,21 +48,21 @@ Ti=The Data Sharing Agreement
  
 3.1.1.1.4.sec=a hyperlink to the {Licensed_Material} to the extent   reasonably practicable and allowed under any further  agreement between the  {Contractor} and {City};
 
-3.1.1.1.=[Bit/Ssec_04]
+3.1.1.1.=[Z/Sec/s4]
 
 3.1.1.2.sec=indicate if {Contractor} modified the {Licensed_Material} and   retain an indication of any previous modifications; and
 
 3.1.1.3.sec=indicate the {Licensed_Material} is licensed under the Innovation   Partnership Program, and include the text of, or the URI or  hyperlink to, the The Program.
 
-3.1.1.=[Bit/Ssec_03]
+3.1.1.=[Z/Sec/s3]
 
-3.1.=[Bit/Ssec_01]
+3.1.=[Z/Sec/s1]
 
 3.2.sec={Contractor} may satisfy the conditions in Sections 3 in any reasonable manner based on the medium, means, and context in which {Contractor} {Share}s the {Licensed_Material}. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
 
 3.3.sec=If requested by {the_City}, {Contractor} must remove any of the information required by Sections 3to the extent reasonably practicable. If {Contractor} {Share}s {Adapted_Material} {Contractor} produces, the Adapter's License {Contractor} applies must not prevent recipients of the {Adapted_Material} from complying with the requirements of Section 3 of this agreement.
 
-3.=[Bit/Ssec_03]
+3.=[Z/Sec/s3]
 
 4.=[Sec/DataSharing_Sec_Use.md]
 
@@ -94,9 +94,9 @@ StateDataLaw=Missouri Sunshine Law
 
 5.4.2.sec=Regardless of the media employed (i.e., disk, tape, etc.),  data must be stored in an encrypted format.  Encryption algorithms shall  AES-128 or better, or Triple-DES (3-DES).  The use of other encryption  algorithms for data storage must be approved in writing by {City}.
 
-5.4.=[Bit/Sec_02]
+5.4.=[Z/Sec/s2]
 
-5.=[Bit/Sec_04]
+5.=[Z/Sec/s4]
 
 
 6.Ti=Maintenance of {Licensed_Material}
@@ -117,7 +117,7 @@ StateDataLaw=Missouri Sunshine Law
 
 7.3.sec=Upon termination of {this_Agreement}, {Contractor} shall immediately discontinue use of the {Licensed_Material}, and either return all copies of the {Licensed_Material} to {the_City} upon request by {City}, or destroy all copies with permission of {City} and provide {City} with certification of such destruction.
 
-7.=[Bit/Sec_03]
+7.=[Z/Sec/s3]
 
 8.Ti=Delivery
 
@@ -127,7 +127,7 @@ StateDataLaw=Missouri Sunshine Law
 
 8.2.sec=Dates specified for delivery of the {Licensed_Material} shall not apply to the extent that the delay is caused for reasons beyond {City}'s reasonable control.
 
-8.=[Bit/Ssec_02]
+8.=[Z/Sec/s2]
 
 9.Ti=Warranty
 
@@ -139,7 +139,7 @@ StateDataLaw=Missouri Sunshine Law
 
 9.3.sec={City} does not warrant that the {Licensed_Material} will meet the needs or expectations of {Contractor}, or that any defects or errors can or will be corrected, nor does {City} make any representation or warranty as to the accuracy of the {Licensed_Material}, including, but not limited to, accuracy as to annotation, dimensions, property boundaries or placement or location of any structures or features. {City} shall use its best efforts to ensure that the {Licensed_Material} are delivered free of physical defect.
 
-9.=[Bit/Ssec_03]
+9.=[Z/Sec/s3]
 
 10.Ti=Assignment and Transfer
 
@@ -155,7 +155,7 @@ StateDataLaw=Missouri Sunshine Law
 
 11.3.sec=The installation of the {Licensed_Material}, its use or the results obtained.
 
-11.=[Bit/Ssec_03]
+11.=[Z/Sec/s3]
 
 12.Ti=Indemnification
 
@@ -183,9 +183,9 @@ Forum.cl=Jackson County, Kansas City, Missouri
 
 13.4.sec=No waiver, consent, modification or change in the terms of {this_Agreement} shall bind either party unless in writing signed by both parties.
 
-13.=[Bit/Sec_04]
+13.=[Z/Sec/s4]
 
-=[Bit/Sec_13]
+=[Z/Sec/13]
 
 DocBody={Doc}
 

@@ -12,4 +12,4 @@ Ti=Use of License Material
 
 3.sec=Nothing in {this_Agreement} transfers or is intended to transfer any rights, title, or interest {City} holds in the {Licensed_Material} to {Contractor}, other than the rights set forth herein. {City} may license the {Licensed_Material} covered by this license to other users so long as such licensing does not interfere with Licensee's rights under {this_Agreement}.
 
-=[Bit/Sec_03]
+=[Z/Sec/3]

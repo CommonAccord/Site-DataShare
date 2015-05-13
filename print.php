@@ -1,4 +1,4 @@
 <?php
-	echo `perl parser2print.pl $path/$dir`;
+	echo `perl parser-print.pl $path/$dir`;
 
 ?>
