@@ -1,13 +1,21 @@
 Doc.Title=Third Party Provider Agreement
 
-0.sec=Introduction
+1.Ti=Third Party Identity Credential Provider
 
-1.Ti=Third Party Provider Section 1
+1.1.sec=Google
 
-1.sec=Third Party Provider lorem ipsum
+1.2.sec=Facebook
 
-90.sec=Conclusion, signature, etc.
+1.=[Z/Sec/s2]
 
-=[Z/Sec/1]
+2.Ti=Litigation Analytics Support App Providers
+
+2.sec=Function: 3rd Party App Helps Decision Making for Litigants During Mock Trial
+
+3.Ti=Law Calendar Apps:
+
+3.sec=Function: Calendar and Schedule Sessions
+
+=[Z/Sec/3]
 
 DocBody={Doc}
