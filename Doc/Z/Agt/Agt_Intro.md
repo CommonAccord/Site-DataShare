@@ -2,7 +2,11 @@ Sec={sec}
 
 sec=<ul type="none" style="padding-left: 0"><li>{Persons.sec}<li>{EffectiveDate.sec}</ul>{This.Sec} {Because.Sec} {That.Sec}
 
+Note=Choices of persons in the intro block (copy one into your doc):
+
 Persons.sec={Parties.Sec}
+
+Persons.sec={Parties.Sec}<br>{Friends.Sec}
 
 Parties.Sec=<b>{Parties.Ti}</b>{Parties.xlist}
 
@@ -36,12 +40,13 @@ P5.sec={P5.N,E,A} ("{P5.Handle}")
 
 P6.sec={P6.N,E,A} ("{P6.Handle}") 
  
-
 Friends.Sec=<b>{Friends.Ti}</b>{Friends.xlist}
 
 Friends.Ti=Third Parties referenced but not party to this {Agreement}:
 
-Friends.xlist=<ul type="none"><li>{Friends.List}<li>Each a "{Named_Third_Party}" and collectively the "{Named_Third_Parties}."</ul>
+Friends.xlist=<ul type="none"><li>{Friends.List}<li>{Friends.Define.sec}</ul>
+
+Friends.Define.sec=Each a "{Named_Third_Party}" and collectively the "{Named_Third_Parties}."
 
 Friends.List={Friends.List.1,2,3,4,5,6}
 
@@ -77,9 +82,9 @@ This.Sec={This.sec}
 
 This.sec=This {Doc.Title} (the "{Agreement}") is made as of the {Effective_Date} by and between the {parties}.
 
-Because.Sec={Because.sec}
+Because.Sec=<ul type="none"> <li>{Because.sec}</ul>
 
-Because.sec=<ul type="none"> <li>{Because.secs}</ul>
+Because.sec=<b>Whereas:</b><ul type="none" style="padding-left: 0">{Because.secs}</ul>
 
 That.Sec={That.sec}
 
