@@ -2,11 +2,11 @@ Ti=Use of License Material
 
 1.Ti=Permitted Use
 
-1.sec=This license is granted for the sole purpose of ....
+1.sec=This license is granted for the sole purpose of ...(education use) ...
 
 2.Ti=Derivative Licensed Material
 
-2.sec={Contractor} shall not use the {Licensed_Material} except ...
+2.sec={Contractor} shall not use the {Licensed_Material} except ... (education use) ...
 
 3.Ti=Reserved Rights
 
