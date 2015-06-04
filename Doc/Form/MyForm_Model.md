@@ -1,10 +1,14 @@
 Ti=Top Level Questions
 
-P1.N,E,A=
+Pick the parties from among those at /U/id/ ... or make your own.
 
-P2.N,E,A=
+P1.=
 
-P1.Handle=City
+P2.=
+
+E.g.
+
+/P1.=[U/id/acme_incorporated]
 
 Agt.Effective.YMD=
 
