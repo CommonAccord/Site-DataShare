@@ -12,79 +12,71 @@ City of Boston Data Policy
 
 2.2.Ti=Data Publishing Guidance
 
-2.2.sec=<ol><li>{Pub.Guide.Priority.Sec}<li>{Pub.Guide.Workflow.Sec}</ol>
+2.2.sec=<ol><li>{Pub.Guide.Priority.Sec}<li>{Pub.Guide.Workflow.Sec}<li>{Pub.Guide.Expedited.Sec}<li>{Pub.Guide.Outreach.Sec}</ol>
+
 Note=Moved to modules:
       
 Pub.Guide.Priority.=[WIP/Boston/Sec/BDP_PublishingPriority.md]
 
 Pub.Guide.Workflow.=[WIP/Boston/Sec/BDP_PublishingWorkflow.md]
 
+Pub.Guide.Expedited.=[WIP/Boston/Sec/BDP_PublishingExpedited.md]
 
-2.=[Z/Sec/2]
- 
-=[Z/Sec/4]
-            - Expedite publishing of at least two open data sets:
-                - This initial set of guidance on publishing open data
-                  is intended to provide sufficient detail to support
-                  the classification and publication of at least two
-                  datasets by every department on an expedited basis. 
-                  The experience gained by publishing some open data
-                  quickly will be an important source of information
-                  about the relevant data types and classification
-                  needs of each department.  The process of publishing
-                  at least a couple of open data sets will also clarify
-                  or confirm the essential business, legal and
-                  technical elements relevant to the open data
-                  publishing workflow and approval chain for each
-                  department.
+Pub.Guide.Outreach.=[WIP/Boston/Sec/BDP_PublishingOutreach.md]
 
-            - Outreach to stakeholder communities
-                - The business contact for Open Data of each department
-                  shall endeavor to identify the relevant stakeholder
-                  communities that will use and rely upon the
-                  publication of each open data set of their
-                  department, including identification of a simple,
-                  effective and repeatable means for notifying
-                  stakeholder communities of the availability of
-                  relevant published open data or the additions to or
-                  other updating of such open data. 
-[Comments: The identification of stakeholders appears to have strong links with the determination of priority publishing status. By identifying groups most dependent on the data, departments will be determining which groups need the data the most. The organization of this policy may benefit by adding the stakeholder's section into the list of due factors to be considered in measuring publishing priority.]
+2.3.Standards and Formats
 
-## Standards and Formats
-(StandardsAndFormats.md)
+2.3.sec=(StandardsAndFormats.md)
 
-## Minimum Documentation to Accompany Published Open Data Sets
-[Incorporated by reference:](MinimumDocumentation.md)
+2.4.Ti=Minimum Documentation to Accompany Published Open Data Sets
 
-## Procurement
-[Incorporated by reference:](Procurement.md)
+2.4.sec=(MinimumDocumentation.md)
 
+2.5.Ti=Procurement
 
-# Identity and Access Management Guidance (IAM)
-[Incorporated by reference](BostonDataPolicy-IAM.md)
+2.5.sec=(Procurement.md)
 
-# Open Data Publishing of Official City Materials and Legal Notices
-[Incorporated by reference:](OpenDataPublishingOfficialCityMaterials.md)
+2.6.Ti=Identity and Access Management Guidance (IAM)
 
-## Interfaces and Interoperability
+2.6.sec=(BostonDataPolicy-IAM.md)
 
-### REST Interfaces and Other APIs
-[Placeholder]
+2.7.Ti=Open Data Publishing of Official City Materials and Legal Notices
 
-### Interoperability With Related Systems, Services and Applications 
-[Placeholder]
+2.7.sec=(OpenDataPublishingOfficialCityMaterials.md)
 
-# Section 3. Protected Data Policy
-[Incorporated by reference:] (ProtectedDataPolicy.md)
+2.8.Ti=Interfaces and Interoperability
 
-## Protected Data Identity and Access Management Guidance (IAM)
-[Incorporated by reference](ProtectedData-IAM.md)
+2.8.1.Ti=REST Interfaces and Other APIs
 
-# Section 4. Legal Disclaimers and Other Terms
-[Incorporated by reference] (LegalDisclaimers.md)
+2.8.1.sec=(Placeholder)
 
-# Section 5. Definitions and Glossary
-[Placeholder]
+2.8.2.Ti=Interoperability With Related Systems, Services and Applications 
+
+2.8.2.sec=(Placeholder)
+
+2.8.=[Z/Sec/2]
+
+2.=[Z/Sec/8]
+
+3.Ti=Protected Data Policy
+
+3.1.Ti=(Placeholder)
+
+3.1.sec=(ProtectedDataPolicy.md)
+
+3.2.Ti=Protected Data Identity and Access Management Guidance (IAM)
+
+3.2.sec=(ProtectedData-IAM.md)
+
+3.=[Z/Sec/2]
+
+4.Ti=Legal Disclaimers and Other Terms
+
+4.sec=(LegalDisclaimers.md)
+
+5.Ti=Definitions and Glossary
+
+5.sec=(Placeholder)
 
     - Accessibility
     - API
@@ -112,6 +104,7 @@ Pub.Guide.Workflow.=[WIP/Boston/Sec/BDP_PublishingWorkflow.md]
           7, 2014 governing Open and Protected Data.
     - Publishing Open Data
     
+=[Z/Sec/5]
     
     
     ===========
@@ -161,64 +154,7 @@ Pub.Guide.Workflow.=[WIP/Boston/Sec/BDP_PublishingWorkflow.md]
     
 # Commentary to accompany Open Data Policy section on departments establishing appropriateness to PUBLISH data after classified as open:
 
-### The process of establishing appropriate data classification and sharing routines:
-
-                - While it is the aspiration of Open Government to
-                  eventually have all public records available in
-                  accessible formats as open data, the transition from
-                  industrial era document-centered systems to
-                  data-driven networked systems requires time.   This
-                  process of transition to digital footing for the City
-                  of Boston will require periodic and interdependent
-                  reforms across every discipline and domain of city
-                  government.  Rendering public records as open data is
-                  an important step toward successful digital
-                  transition.  The development of reliable and
-                  efficient methods to identify and classify Protected
-                  Data and to distinguish it from Open Data will
-                  require iterative cycles of progress and phases of
-                  refinement.  Civilian governmental departments at the
-                  local, state and federal levels are not accustomed to
-                  defining and classifying all data in their possession
-                  as open or protected.  Response to public information
-                  requests on a case by case basis require a very
-                  different  and much narrower approach to data
-                  classification. More importantly, the current state
-                  of law and policy has been overtaken by the pace of
-                  technical change.  The advance of widely accessible
-                  data analytics capabilities has changed the playing
-                  field with respect to privacy and personal data
-                  management.  Today, distinguishing whether data
-                  disclosure may reveal individual identities is a
-                  vastly more complex challenge because the compilation
-                  of otherwise public data by third parties using big
-                  data analytics can result in violation of reasonable
-                  expectations to privacy.  In order to publish open
-                  data while appropriately managing privacy and other
-                  risks, a careful and deliberate approach must be
-                  established and refined over time.  The process of
-                  establishing mature and stable data classification
-                  and publishing policies begins with adherence to the
-                  criteria set by Mayor Walsh in his Executive Order on
-                  open and protected data and will continue through
-                  cycles of revisions and amendments to City of Boston
-                  information practices, policies and procedures.   All
-                  parts of municipal government are involved in the
-                  transition to a data-driven city.  City of Boston
-                  public administration and departmental operations
-                  (the business layer), rules and policy (the legal
-                  layer) as well as systems and procedures (the
-                  technical layer) each play an important part in the
-                  governance of this transition.  As the transformation
-                  to a data-driven networked city unfolds, the
-                  business, legal and technical layers of municipal
-                  government will evolve significantly.  Although the
-                  municipal governments of Boston is a recognized
-                  leader at effective use of technology and data, in
-                  order to achieve the enterprise wide publishing of
-                  open data it is important for all departments to
-                  follow a simple, sustainable and stepwise approach.
-
+DeclarationOfPurpose.=[WIP/Boston/Sec/BDP_DeclarationOfPurpose.md]
 
 # Some notes from first draft:
     
