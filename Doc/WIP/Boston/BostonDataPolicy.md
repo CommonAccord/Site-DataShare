@@ -22,53 +22,10 @@ ______________________
 [Incorporated by reference:] (DataClassificationGuidance.md) 
 
 ## Data Publishing Guidance
-        
-### Determine the Publishing Priority of Open Data
 
-                - Each department shall determine the publishing
-                  priority status of it‚Äôs Open Data. 
-                  - Once data is classified as open and not protected, the next step is to determine whether that data is appropriate for publishing on the City of Boston Open Data Portal.  Some data that is public record technically may nonetheless be inappropriate for publishing as open data.  For example, it is possible that some data, while individually public record can, if cross-tabulated by third parties with other openly available datasets, constitute an violation of reasonable expectations of privacy and other information security risks.  Until applicable federal and state law catches up to these risks, it is important for each department to actively consider and use reasonable judgement as to whether data that has been classified as open is in fact appropriate to be published "as is" on the open data portal or not.  In some cases, it may be advisable to redact certain features of the dataset to limit the potential risks of harm or to delay publishing of inappropriate data until a prudent and safe plan is adopted.  
-                  
-                - After data has both been classified as open and also determined to be appropriate for publishing, then the department shall determine the priority order in which such data is to be published.  Given the limited resources available to accomplish full publishing of all appropriate open data, it is important to prioritize the publishing of the most important data sets and to set a general priority-order for the publishing of all such data over a reasonable period of time. 
-                
-                - The priority status for establishing which Open Data to publish
-                  first shall be based upon due consideration of all
-                  factors relevant to that department and data. 
-                  Priority publishing status may include consideration
-                  of whether the public interest is materially served
-                  by providing access to the data because: 
-                - Volume: The data is of a type that is of significant
-                  size and continually provided and/or of very large
-                  size and periodically provided;
-                - Velocity: Rapid access to the data is important and
-                  rendering the data accessible through
-                  data.cityofboston.gov is the most effective, least
-                  expensive or otherwise highest value method to enable
-                  immediate access to the data;
-                - Variability: The data fluctuates at a high rate and
-                  access to the then current state of the data is of
-                  value
-                - Variety: The addition of the data, when used in
-                  combination with other data sets, affords enhanced
-                  compound value.
-                - Validity: The data sheds light upon the legitimacy of
-                  government or the acts of government, such as ethics
-                  disclosures and violations or the conduct of
-                  elections and response to election fraud or other
-                  violations;
-                - Veracity:  The data provides verifiable metrics from
-                  an authoritative public source, such as weights and
-                  measures, census and vital statistics, reported
-                  crime, public health or other data sets for which
-                  accurate readings are required to correctly calibrate
-                  or response by sensitive, mission critical, high risk
-                  or high value systems; and
-                - Value: Rendering the data accessible via
-                  data.cityofboston.gov or an appropriate alternative
-                  publishing method in in the public interest and/or
-                  yields other material sources of value to government,
-                  the private sector, a definable subset of a sector
-                  and/or the public at large. [Comments: Consider adding in a reference to the value of the data to the stakeholder.]
+Note=Moved Publishing Priority text to a module:
+      
+2.3.=[WIP/Boston/Sec/BDP_PublishingPriority.md]
 
         - Publishing Workflow and Approval Chain
             - Each department head shall confirm or update the names
@@ -336,4 +293,3 @@ ______________________
               their public record data set through other methods, in
               accordance with API, format, accessibility and other
               guidance of the Open Data Policy.]
-    
