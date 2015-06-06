@@ -1,56 +1,28 @@
-Version 0.2
-June 23, 2014
+Version 0.xx
+June 6, 2015
 City of Boston Data Policy
 
-Revision Notes:
-* Dazza included the Version info right here.
-* Nader added links for Open Data Policy, these include: DataClassificationGuidance.md, LegalDisclaimers.md, MinimumDocumentation.md, Procurement.md, ProtectedDataPolicy.md, OpenDataPublishingOfficialCityMaterials.md, and StandardsAndFormats.md.
-* Nader added links for Protected Data policy, these include: ProtectedData-IAM.md
-* Nader added comments to the Stakeholders section under Section 2: Open Data Policy.
-* Nader added comments to the 'Value' consideration under the section 'Determine the Publishing Priority of Open Data.
-______________________
+1.Ti=Introduction and Overview
 
+2.Ti=Open Data Policy
 
-# Section 1: Introduction and Overview
+2.1.Ti=Data Classification Guidance
 
+2.1.sec=(DataClassificationGuidance.md) 
 
+2.2.Ti=Data Publishing Guidance
 
-# Section 2: Open Data Policy
-
-
-## Data Classification Guidance
-[Incorporated by reference:] (DataClassificationGuidance.md) 
-
-## Data Publishing Guidance
-
-Note=Moved Publishing Priority text to a module:
+2.2.sec=<ol><li>{Pub.Guide.Priority.Sec}<li>{Pub.Guide.Workflow.Sec}</ol>
+Note=Moved to modules:
       
-2.3.=[WIP/Boston/Sec/BDP_PublishingPriority.md]
+Pub.Guide.Priority.=[WIP/Boston/Sec/BDP_PublishingPriority.md]
 
-        - Publishing Workflow and Approval Chain
-            - Each department head shall confirm or update the names
-              and contact information for the individuals noted on the
-              Open Data Manager business and legal points of contact
-              roster for their department.
-            - Each department head shall conduct an initial assessment
-              of the types and amounts of data sets for which it is
-              responsible.  This assessment shall include:
-                - The name of each data set whether the data set is
-                  expected to be classified as open and public or
-                  protected from disclosure; 
-                - A short one or two sentence abstract describing what
-                  the data is comprised of and how it is used by or
-                  with the department; and
-                - the name of the software, platform or other system or
-                  systems through which the data flows or where the
-                  data is stored.
-            - Each department head shall establish a plan for the
-              classification of its data sets as open or protected
-            - The departmental Open Data business contact shall deliver
-              to the Open Data Manager their department initial
-              assessment of its data sets and data classification plan
-                  Is a time period needed for completion of this task?
+Pub.Guide.Workflow.=[WIP/Boston/Sec/BDP_PublishingWorkflow.md]
+
+
+2.=[Z/Sec/2]
  
+=[Z/Sec/4]
             - Expedite publishing of at least two open data sets:
                 - This initial set of guidance on publishing open data
                   is intended to provide sufficient detail to support
@@ -79,7 +51,7 @@ Note=Moved Publishing Priority text to a module:
 [Comments: The identification of stakeholders appears to have strong links with the determination of priority publishing status. By identifying groups most dependent on the data, departments will be determining which groups need the data the most. The organization of this policy may benefit by adding the stakeholder's section into the list of due factors to be considered in measuring publishing priority.]
 
 ## Standards and Formats
-[Incorporated by reference:](StandardsAndFormats.md)
+(StandardsAndFormats.md)
 
 ## Minimum Documentation to Accompany Published Open Data Sets
 [Incorporated by reference:](MinimumDocumentation.md)
@@ -292,4 +264,14 @@ Note=Moved Publishing Priority text to a module:
               public disclosure, and/or, if appropriate, may publish
               their public record data set through other methods, in
               accordance with API, format, accessibility and other
-              guidance of the Open Data Policy.]
+              guidance of the Open Data Policy.]  
+
+
+Revision Notes:
+* Dazza included the Version info right here.
+* Nader added links for Open Data Policy, these include: DataClassificationGuidance.md, LegalDisclaimers.md, MinimumDocumentation.md, Procurement.md, ProtectedDataPolicy.md, OpenDataPublishingOfficialCityMaterials.md, and StandardsAndFormats.md.
+* Nader added links for Protected Data policy, these include: ProtectedData-IAM.md
+* Nader added comments to the Stakeholders section under Section 2: Open Data Policy.
+* Nader added comments to the 'Value' consideration under the section 'Determine the Publishing Priority of Open Data.
+* Jim formatted into Cmacc
+______________________
