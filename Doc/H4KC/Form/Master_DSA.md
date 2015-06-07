@@ -1,6 +1,6 @@
 Doc.Title=Data Sharing Agreement 
 
-0.0.sec=This AGREEMENT is made and entered into this _____ day of ____________, 20__ by and between the {City}, acting by and through the {City Department}, whose principle office is located at {Address of City Department} and ____________________ (Company Name, Inc.) (herein after referred to as the “User”) whose office is at _______________________________________(Company Address). 
+0.0.sec=This AGREEMENT is made and entered into this {Agt.Effective.YMD} by and between the {City}, acting by and through the {City Department}, whose principle office is located at {Address of City Department} and {P2.Name.Full} (herein after referred to as the “User”) whose office is at {P2.Addr.1,2,3}. 
 
 0.1.sec=WHEREAS, {Specific obligations under Agreement} 
 
@@ -16,7 +16,7 @@ Doc.Title=Data Sharing Agreement
 
 2.sec=Unless otherwise agreed in a writing executed by authorized representatives of City and User, as between City and User, City shall own all right, title and interest in and to the Intellectual Property Rights in the Sensor Data.
 
-3.sec=The City and the User each agree that User shall have access to the signals from the sensors in a form which is accessible and can be utilized by User. The Cityspecifically reserves the right to make changes in the form and accessibility of said information as it sees fit without advance notice to User; provided that the City will use best efforts to provide User with as much prior notice as is practicable prior to any discontinuation of access to the sensor data. 
+3.sec=The City and the User each agree that User shall have access to the signals from the sensors in a form which is accessible and can be utilized by User. The City specifically reserves the right to make changes in the form and accessibility of said information as it sees fit without advance notice to User; provided that the City will use best efforts to provide User with as much prior notice as is practicable prior to any discontinuation of access to the sensor data. 
 
 4.sec=User hereby agrees to furnish and supply at its own cost and expense all necessary equipment to receive and utilize said information whenever required. Any and all expenses relating to access by User shall be borne and maintained by User. Information and video images gathered by User from its access to the sensors shall be disseminated by User in a timely manner so as to not undermine the public’s confidence in the City’s efforts. 
 
@@ -76,7 +76,7 @@ Doc.Title=Data Sharing Agreement
 
 90.1.sec={P1.Sign.Block}
 
-90.2.sec={P1.Sign.Block}
+90.2.sec={P2.Sign.Block}
 
 90.=[Z/paras/s2]
 
