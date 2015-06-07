@@ -1,3 +1,5 @@
+Credits=base: http://www.nyc.gov/html/dot/downloads/pdf/video-partnership-agreement.pdf<br>clauses 6-9 came from here: http://www.erdc.wa.gov/data/docs/dataouttemplate.pdf<br>Clause 17 came from here: http://hipaa.yale.edu/sites/default/files/files/5039-FR-Data-Use-Agreement.pdf<br>Bryan Wilson - created clause 2, the ownership clause
+
 Doc.Title=Data Sharing Agreement 
 
 0.0.sec=This AGREEMENT is made and entered into this {Agt.Effective.YMD} by and between {City.Name.Full}, acting by and through the {City Department}, whose principle office is located at {Address of City Department} (the "{City}") and {P2.Name.Full} (herein after referred to as the “User”) whose office is at {P2.Addr.1,2,3}. 
