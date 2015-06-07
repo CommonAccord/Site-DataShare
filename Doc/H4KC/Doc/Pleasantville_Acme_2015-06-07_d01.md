@@ -2,7 +2,7 @@ MessageToUser=DRAFT 1
 
 Agt.Effective.YMD=June 7, 2015
 
-City=Pleasantville, IH
+City.Name.Full=Pleasantville, IH
 
 City Department=Fire Department
 
