@@ -1,0 +1,13 @@
+Name.Full=City of Kansas City
+
+Addr.1=City Hall, first floor, 414 E. 12th St.
+
+Addr.City=Kansas City
+
+Addr.ST=MO
+
+Addr.Zip=64106
+
+Phone=816-513-1313
+
+=[U/class/ID_Entity]
