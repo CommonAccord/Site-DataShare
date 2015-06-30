@@ -40,7 +40,7 @@ Olist=<ol><li>{Purpose.Sec}<li>{Period.Sec}<li>{Justification.Sec}<li>{Data.Sec}
 
 Purpose.Ti=PURPOSE
 
-Purpose.sec={e-}In this section, both parties must state in non-technical language the purpose(s) for which they are entering into the agreement, i.e., how the data will be used, what studies will be performed, or what the desired outcomes are perceived to be as a result of obtaining the data. The source of the data will come from any and all public health or claims databases. The data will only be used for research and/or analytical purposes and will not be used to determine eligibility or to make any other determinations affecting an individual. Furthermore, as the data will be shared within a State, it will be subjected to all applicable requirements regarding privacy and confidentiality that are described herein.
+Purpose.sec=In this section, both parties must state in non-technical language the purpose(s) for which they are entering into the agreement, i.e., how the data will be used, what studies will be performed, or what the desired outcomes are perceived to be as a result of obtaining the data. The source of the data will come from any and all public health or claims databases. The data will only be used for research and/or analytical purposes and will not be used to determine eligibility or to make any other determinations affecting an individual. Furthermore, as the data will be shared within a State, it will be subjected to all applicable requirements regarding privacy and confidentiality that are described herein.
 
 Purpose.=[Z/Sec/0]
 
