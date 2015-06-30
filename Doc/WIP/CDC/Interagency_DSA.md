@@ -36,7 +36,7 @@ Doc.Title=Data Sharing Agreement
 
 0.=[Z/Sec/2]
 
-Olist=<ol><li>{Purpose.Sec}<li>{Period.Sec}<li>{Justification.Sec}<li>{Data.Sec}<li>{Access.Sec}<li>{Custody.Sec}<li>{Dispose.Sec}<li>{Cost.Sec}<li>{Effort.Sec}<li>{Sign.Sec}</ol>
+Olist=<ol><li>{Purpose.Sec}<li>{Period.Sec}<li>{Justification.Sec}<li>{Data.Sec}<li>{Access.Sec}<li>{Custody.Sec}<li>{Conf.Sec}<li>{Dispose.Sec}<li>{Cost.Sec}<li>{Effort.Sec}<li>{Sign.Sec}</ol>
 
 Purpose.Ti=PURPOSE
 
