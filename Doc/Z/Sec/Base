@@ -14,8 +14,6 @@ sec={0.Sec} {xlist} {90.Sec}
 
 0.Sec={0.sec}
 
-Ti=</i>
-
 0.sec=</i>
 
 90.Sec={90.sec}
@@ -24,9 +22,9 @@ Ti=</i>
 
 xlist={Olist}
 
-Olist=<{ol}><li>{Secs}</li></ol>
+Olist=<ol><li>{Secs}</li></ol>
 
-olist=<{ol}><li>{secs}</li></ol>
+olist=<ol><li>{secs}</li></ol>
 
 ol=ol
 
