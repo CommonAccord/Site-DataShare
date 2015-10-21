@@ -12,7 +12,7 @@
 
 7.Ti=Portable Devices
 
-8.Ti=Protection of Personally Identifiable Data
+8.Ti=Protection of Smart City Data
 
 9.Ti=Continue Identification of Data
 
