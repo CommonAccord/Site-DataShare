@@ -30,17 +30,16 @@ Doc.Title=Data Sharing Agreement
 
 7.1.sec={Protections}
 
-8.0.sec=User shall exercise due care to protect all Personally Identifiable data from unauthorized physical and electronic access. Both parties shall establish and implement the following minimum physical, electronic and managerial safeguards for maintaining the confidentiality of information provided by either party pursuant to this Agreement:
+Alt8.sec=<font color="red">See Sec_Misc_Assign.md for some suggested formulations - in format Alt-X.sec.</font>
 
-8.1.sec={Conf.Care.sec}
+8.Alt1.sec=User shall exercise due care to protect all Smart data from unauthorized physical and electronic access. Both parties shall establish and implement the following minimum physical, electronic and managerial safeguards for maintaining the confidentiality of information provided by either party pursuant to this Agreement: <font color="red">Minimum physical, electronic and managerial safeguards for maintaining the confidentiality of information provided by either party pursuant to this Agreement</font>
 
-Conf.Care.sec = {Conf.Care.AltX.Sec } where X is 1-2:
+8.Alt2.sec=User shall exercise due care to protect all Smart City data from unauthorized physical and electronic access. Both parties shall establish and implement the following minimum physical, electronic and managerial safeguards for maintaining the confidentiality of information provided by either party pursuant to this Agreement:<font color="red">Only Public Safety Officers in the state of Missouri are allowed to view such information.</font>
 
-Conf.Care.Alt1.Sec=<font color="red">Minimum physical, electronic and managerial safeguards for maintaining the confidentiality of information provided by either party pursuant to this Agreement</font>
+8.Alt3.sec=User shall exercise due care to protect all Smart City data from unauthorized physical and electronic access. Both parties shall establish and implement the following minimum physical, electronic and managerial safeguards for maintaining the confidentiality of information provided by either party pursuant to this Agreement:<font color="red">Only //Pipe Monitoring App  Limitation // in the state of Missouri are allowed to view such information.</font>
 
-Conf.Care.Alt2.Sec=<font color="red">Only Public Safety Officers in the state of Missouri are allowed to view such information.</font>
+8.=[Z/Alt/3]
 
-8.=[Z/Alt/2]
 
 9.sec={City} data must be segregated or otherwise distinguishable from non-{City} data. This is to ensure that when no longer needed by the User, all {City} data can be identified for return or destruction. It also aids in determining whether {City} data has or may have been compromised in the event of a security breach.
 
