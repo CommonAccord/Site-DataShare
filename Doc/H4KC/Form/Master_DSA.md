@@ -34,9 +34,13 @@ Doc.Title=Data Sharing Agreement
 
 8.1.sec={Conf.Care.sec}
 
-Conf.Care.sec=<font color="red">Minimum physical, electronic and managerial safeguards for maintaining the confidentiality of information provided by either party pursuant to this Agreement</font>
+Conf.Care.sec = {Conf.Care.AltX.Sec } where X is 1-2:
 
-8.=[Z/Sec/1]
+Conf.Care.Alt1.Sec=<font color="red">Minimum physical, electronic and managerial safeguards for maintaining the confidentiality of information provided by either party pursuant to this Agreement</font>
+
+Conf.Care.Alt2.Sec=<font color="red">Only Public Safety Officers in the state of Missouri are allowed to view such information.</font>
+
+8.=[Z/Sec/2]
 
 9.sec={City} data must be segregated or otherwise distinguishable from non-{City} data. This is to ensure that when no longer needed by the User, all {City} data can be identified for return or destruction. It also aids in determining whether {City} data has or may have been compromised in the event of a security breach.
 
